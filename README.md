@@ -1,4 +1,6 @@
 # EX 9 : IMAGE EDITING
+## NAME:MAGESHKUMAR U
+## REGNO:212224240085
 
 ## AIM:
 
@@ -51,3 +53,5 @@
 
 
 ## OUTPUT:
+![Black and Orange Bold Modern Grunge Basketball Tournament Poster](https://github.com/user-attachments/assets/869f197f-64c8-4dae-bafd-c68b5d592e0a)
+
